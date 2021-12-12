@@ -6,5 +6,3 @@
 1 **Importer le dossier dans ressource (placé dans le dossier [ESX])**
 
 *Et inséré*, start esx_robnpc dans le server.cfg
-
-**Crée par OXYDE#0001**
